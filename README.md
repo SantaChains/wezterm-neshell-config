@@ -12,7 +12,7 @@
 
 2. 克隆此配置：
    ```bash
-   git clone https://github.com/你的用户名/wezterm-config.git ~/.config/wezterm
+   git clone https://github.com/SantaChains/wezterm-neshell-config
    ```
 
 3. 重启 WezTerm 即可生效
